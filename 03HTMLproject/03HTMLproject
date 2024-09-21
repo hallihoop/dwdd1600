@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<title>Simple & Healthy Meals</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Learn about Declaration of Independence of the United States.">
+<meta name="author" content="Halli Hoopes">
+<meta charset="UTF-8">
+    </head>
+    <body>
+        <!-- This is the start of the header section. -->
+<header>
+<h1>Simple & Healthy Meals</h1>
+<p>Eating rich, on a budget.</p>
+</header>
+
+<!-- This is the start of the navigation section. -->
+<nav>
+<ul>
+<li><a href="index.html">About Me</a></li>
+<li><a href="faqs.html">FAQ's</a></li>
+</ul>
+</nav>
+<!-- This is the start of the main section. -->
+<main>
+
+</main>
+    </body>
