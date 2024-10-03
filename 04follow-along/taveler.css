@@ -5,13 +5,11 @@ body {
     margin: 0;
     font-size: 16px;
   }
-    
-<!-- this stuff here. -->
 
-/* Header stuff here. */
+/* Header section here. */
 
 header {
-    background-color: #efefef;
+    background-color: #eaeaea;
     padding: 1rem 2vw;
 }
 
